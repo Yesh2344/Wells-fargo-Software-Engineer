@@ -11,9 +11,3 @@ This repository contains my two tasks from the Wells Fargo Software Engineering 
     2. Java Development: OOP (Encapsulation, Classes, Abstraction) 
     3. Git: Cloning repositories, committing changes, and pushing code to GitHub
 
-## Simulation Reference
-[Link to Wells Fargo Software Engineering Work Simulation](https://www.theforage.com/virtual-internships/prototype/9Wvq4L2WCFQDyyPp3/software-engineering)
-
---
-
-Thank you for visiting this repository and for your interest in my work.
