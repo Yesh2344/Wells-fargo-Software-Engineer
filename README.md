@@ -22,3 +22,5 @@ Thank you for visiting this repository and for your interest in my work.
 ## Contact
 
 Email:yeswanthsoma83@gmail.com
+
+## Copyrights
